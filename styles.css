@@ -89,6 +89,7 @@ span{
     bottom: 0;
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
+    animation: animateUser 4s linear infinite;
 }
 
 .images:hover .shape{
